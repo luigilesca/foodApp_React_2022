@@ -1,6 +1,5 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 import styles from "./Popular.module.css";
 import Card from "../Card/Card";
 
