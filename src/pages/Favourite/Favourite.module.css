@@ -1,0 +1,26 @@
+.wrapper {
+  position: relative;
+  min-height: 100vh;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 2rem auto;
+  text-align: center;
+}
+.info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 26px;
+  color: #22447b;
+  font-weight: 500;
+  margin: 0;
+}
