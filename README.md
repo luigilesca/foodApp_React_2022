@@ -67,7 +67,7 @@ Use the `BLANK_README.md` to get started.
 - [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage?retiredLocale=it)
 - [CSS modules](https://github.com/css-modules/css-modules)
 - [react-responsive](https://www.npmjs.com/package/react-responsive)
-  - [axios](https://axios-http.com/docs/intro)
+- [axios](https://axios-http.com/docs/intro)
 
 
 ## Getting Started
