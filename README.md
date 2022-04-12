@@ -36,10 +36,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -118,14 +116,5 @@ Project Website: [home-work-app - Netlify](https://home-work-app.netlify.app/)
 
 Portfolio: [Luigi Lesca-web-developer-portfolio](https://talent.start2impact.it/profile/luigi-lesca)
 
-## Acknowledgements
 
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Remotive API](https://github.com/remotive-io/remote-jobs-api)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-- [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
-- [react-scroll-parallax](https://www.npmjs.com/package/react-scroll-parallax)
-- [react-scroll-parallax](https://www.npmjs.com/package/react-scroll-parallax)
-- [dompurify](https://www.npmjs.com/package/dompurify)
 
