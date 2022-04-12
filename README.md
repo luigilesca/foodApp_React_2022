@@ -86,7 +86,7 @@ npm install npm@latest -g
 1. Clone the repository locally with the git command:
 
    ```sh
-   git clone https://github.com/Auro-93/home-work-app.git
+   git clone https://github.com/luigilesca/foodApp_React_2022.git
    ```
 
 2. Install NPM packages:
@@ -110,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [@Luigi Lesca](https://www.linkedin.com/in/luigi-lesca/) - luigilesca@hotmail.it
 
 Project Repository: [foodApp_ReactRedux_2022
-](https://github.com/Auro-93/home-work-app)
+](https://github.com/luigilesca/foodApp_React_2022.git)
 
 Project Website: [home-work-app - Netlify](https://home-work-app.netlify.app/)
 
