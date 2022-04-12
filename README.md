@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Repository: [foodApp_ReactRedux_2022
 ](https://github.com/luigilesca/foodApp_React_2022.git)
 
-Project Website: [Vegetarian App - Netlify](inserir url)
+Project Website: [Vegetarian App - Netlify](https://food-app-react-2022.netlify.app/)
 
 Portfolio: [Luigi Lesca-web-developer-portfolio](https://talent.start2impact.it/profile/luigi-lesca)
 
