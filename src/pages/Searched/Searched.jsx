@@ -4,9 +4,7 @@ import Header from "../../components/Header/Header";
 import Search from "../../components/Search/Search";
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { Link } from "react-router-dom";
 import Card from "../../components/Card/Card";
-import { FaRegPlayCircle } from "react-icons/fa";
 
 function Searched() {
   const [searchedRecipes, setSearchedRecipes] = useState([]);
