@@ -11,6 +11,8 @@ const favouriteSlice = createSlice({
       const newItem = action.payload;
       console.log(newItem);
       state.items.find((item) => item.id === newItem.id);
+
+      state.items = state.items.filter((item) => item.id !== newItem.id);
       state.totalQuantity++;
 
       state.items.push({
